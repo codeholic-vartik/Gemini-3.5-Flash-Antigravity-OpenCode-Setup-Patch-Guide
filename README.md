@@ -1,4 +1,4 @@
-# Gemini 3.5 Flash OpenCode Setup & Patch Guide
+# Antigravity Gemini 3.5 Flash OpenCode Setup & Patch Guide
 
 This guide outlines the step-by-step process of configuring OpenCode and patching the `opencode-antigravity-auth` plugin to successfully use the **Gemini 3.5 Flash** model with its thinking variants (Low, Medium, High).
 
